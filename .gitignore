@@ -1,0 +1,7 @@
+*datasheets/
+*assembly/
+*gerbers/
+.DS_Store
+*bak*
+*backup*
+*cache*
