@@ -1,0 +1,5 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"J101";"IDC-Header_2x20_P2.54mm_Horizontal";1;"HP_PROBE";;;
+2;"H101,H104,H102,H103";"MountingHole_3mm_Pad";4;"M3";;;
+3;"CN101";"CONN-SMD_NXSB0-S67XX-XXH4";1;"NASB0-S6701-TPH4";;;
+4;"H105";"MountingHole_2.2mm_M2_DIN965_Pad";1;"M2";;;
